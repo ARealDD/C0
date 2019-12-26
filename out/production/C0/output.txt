@@ -1,0 +1,65 @@
+.constants:
+0 S "fun"
+1 S "main"
+.start:
+0 ipush 1 
+1 ipush 10 
+2 loada 0 0 
+3 iload 
+4 loada 0 1 
+5 iload 
+6 iadd 
+.functions:
+0 0 1 1
+1 1 0 1
+.F0:
+0 loada 0 0 
+1 iload 
+2 ipush 0 
+3 icmp 
+4 jle 12 
+5 loada 0 0 
+6 loada 0 0 
+7 iload 
+8 ipush 1 
+9 isub 
+10 istore 
+11 jmp 19 
+12 nop 
+13 loada 0 0 
+14 loada 0 0 
+15 iload 
+16 ipush 1 
+17 iadd 
+18 istore 
+19 nop 
+20 loada 0 0 
+21 iload 
+22 iret 
+.F1:
+0 ipush 1 
+1 loada 1 1 
+2 ipush 5 
+3 istore 
+4 loada 0 0 
+5 iload 
+6 loada 1 1 
+7 iload 
+8 icmp 
+9 jge 24 
+10 loada 0 0 
+11 loada 0 0 
+12 iload 
+13 ipush 1 
+14 iadd 
+15 istore 
+16 loada 1 2 
+17 loada 0 0 
+18 iload 
+19 loada 1 1 
+20 iload 
+21 iadd 
+22 istore 
+23 jmp 4 
+24 nop 
+25 ret 

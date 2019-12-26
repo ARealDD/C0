@@ -1,0 +1,15 @@
+double x;
+
+int fun(int num) {
+    int rtv = num/2;
+    return rtv+1;
+}
+
+void main() {
+	print(1);
+    x = 17;
+    fun(x);
+    print(x);
+    print(fun(x));
+    return;
+}

@@ -1,0 +1,65 @@
+
+double max(double a,double b){
+	if (a>b)
+		return a;
+	else
+		return b;
+}
+double abs(double x){
+if (x<0) return -x;
+else return x;
+}
+double sqrt(double x){
+	
+	double t=0;
+	double l=0,r=x+1;
+	double eps=0.001;
+	print("Doing sqrt:",x);
+	while (abs(t*t-x)>eps){
+		print("t*t=",t*t);
+		print(l,r);
+		if (t*t==x) return t;
+		if (t*t<x) {l=t;t=(t+r)/2;}
+		if (t*t>x) {r=t;t=(l+t)/2;}
+	}
+	return t;
+}
+double max3(double a,double b,double c){
+	return max(max(a,b),c);
+}
+double calArea2(double a,double b,double c){
+double m=(a+b+c)/2;
+return sqrt(m*(m-a)*(m-b)*(m-c));
+}
+
+int main(){
+print('A');
+while (-1){
+double m=0,sum=0,area=0;
+double x,y,z;
+int k=0;
+print('A');
+scan(x);scan(y);scan(z);
+m = max3(x,y,z);
+print('A');
+sum=x+y+z;
+
+if (x+y>z) k=k+1;
+if (x+z>y) k=k+1;
+if (y+z>x) k=k+1;
+print('A');
+if (k==3){
+	print("It is a triangle.");
+	print("Length:",sum);
+	print("Square of area:",calArea2(x,y,z));	
+}
+else
+{
+	print("It is not a triangle");
+}
+
+
+}
+return 0;
+
+}

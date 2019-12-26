@@ -1,0 +1,14 @@
+double x(){}
+int main(){
+
+char a=89,b=90,c=91,d=92;
+print(a,b,c,d);
+print((char)a);
+print((double)b);
+print((char)c);
+print((char)(c));
+print((int)(char)(double)(int)(int)(double)c);
+print((int)(char)(double)c);
+print((int)(char)(double)(double)d);
+
+}

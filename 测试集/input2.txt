@@ -1,0 +1,13 @@
+int a =1;
+double b=0.25;
+int f(double a,double b){
+return a*b;
+}
+
+int main(){
+int c;
+int a=2;
+c=f(a,b);
+print(c,a);
+return 0;
+}

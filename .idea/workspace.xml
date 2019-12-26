@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d012e2b-eae2-4d73-893e-d39432a4dd72" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/analyser/Analyser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+              <folding>
+                <element signature="e#1132#1225#1" />
+                <element signature="docComment;method#program#0;class#Analyser#0" />
+                <element signature="method#program#0;class#Analyser#0" />
+                <element signature="e#1576#2061#0" />
+                <element signature="e#1681#1764#1" />
+                <element signature="e#1868#1950#1" />
+                <element signature="e#2090#2124#0" />
+                <element signature="docComment;method#variableDeclaration#0;class#Analyser#0" />
+                <element signature="method#variableDeclaration#0;class#Analyser#0" />
+                <element signature="e#2664#3924#0" />
+                <element signature="e#2816#2892#1" />
+                <element signature="e#3369#3647#1" />
+                <element signature="e#3461#3530#1" />
+                <element signature="e#3552#3633#1" />
+                <element signature="e#3787#3913#1" />
+                <element signature="e#3952#3986#0" />
+                <element signature="docComment;method#initDeclarator#0;class#Analyser#0" />
+                <element signature="method#initDeclarator#0;class#Analyser#0" />
+                <element signature="e#4282#5732#0" />
+                <element signature="e#4432#4560#1" />
+                <element signature="e#4604#4738#1" />
+                <element signature="e#4904#5305#1" />
+                <element signature="e#4995#5138#1" />
+                <element signature="e#5183#5290#1" />
+                <element signature="e#5343#5721#1" />
+                <element signature="e#5433#5540#1" />
+                <element signature="e#5586#5707#1" />
+                <element signature="e#5761#5795#0" />
+                <element signature="docComment;method#typeSpecifier#0;class#Analyser#0" />
+                <element signature="method#typeSpecifier#0;class#Analyser#0" />
+                <element signature="e#6049#6326#0" />
+                <element signature="e#6113#6167#1" />
+                <element signature="e#6185#6316#1" />
+                <element signature="e#6355#6389#0" />
+                <element signature="docComment;method#functionDefinition#0;class#Analyser#0" />
+                <element signature="e#7031#7159#1" />
+                <element signature="e#7452#7592#1" />
+                <element signature="e#7995#8094#1" />
+                <element signature="e#8286#8426#1" />
+                <element signature="e#8654#8688#0" />
+                <element signature="docComment;method#parameterClauseList#0;class#Analyser#0" />
+                <element signature="method#parameterClauseList#0;class#Analyser#0" />
+                <element signature="e#8929#9304#0" />
+                <element signature="e#8993#9293#1" />
+                <element signature="e#9085#9176#1" />
+                <element signature="e#9198#9279#1" />
+                <element signature="e#9333#9367#0" />
+                <element signature="docComment;method#parameterDeclaration#0;class#Analyser#0" />
+                <element signature="method#parameterDeclaration#0;class#Analyser#0" />
+                <element signature="e#9616#10728#0" />
+                <element signature="e#9769#9845#1" />
+                <element signature="e#10273#10401#1" />
+                <element signature="e#10445#10579#1" />
+                <element signature="e#10757#10791#0" />
+                <element signature="docComment;method#compoundStatement#0;class#Analyser#0" />
+                <element signature="e#11198#11337#1" />
+                <element signature="e#11442#11496#1" />
+                <element signature="e#11730#11869#1" />
+                <element signature="docComment;method#statementSeq#0;class#Analyser#0" />
+                <element signature="method#statementSeq#0;class#Analyser#0" />
+                <element signature="e#12118#12210#0" />
+                <element signature="e#12156#12200#1" />
+                <element signature="e#12239#12273#0" />
+                <element signature="docComment;method#statement#0;class#Analyser#0" />
+                <element signature="method#statement#0;class#Analyser#0" />
+                <element signature="e#12815#15579#0" />
+                <element signature="e#12885#15569#0" />
+                <element signature="e#12920#13253#1" />
+                <element signature="e#13063#13208#1" />
+                <element signature="e#13279#13402#1" />
+                <element signature="e#13431#13549#1" />
+                <element signature="e#13579#13697#1" />
+                <element signature="e#13726#13845#1" />
+                <element signature="e#13873#13991#1" />
+                <element signature="e#14025#15476#1" />
+                <element signature="e#14136#14675#1" />
+                <element signature="e#14461#14622#1" />
+                <element signature="e#14747#15279#1" />
+                <element signature="e#15065#15226#1" />
+                <element signature="e#15305#15458#1" />
+                <element signature="e#15509#15555#1" />
+                <element signature="e#15608#15642#0" />
+                <element signature="docComment;method#conditionStatement#0;class#Analyser#0" />
+                <element signature="method#conditionStatement#0;class#Analyser#0" />
+                <element signature="e#15873#16910#0" />
+                <element signature="e#16063#16192#1" />
+                <element signature="e#16283#16406#1" />
+                <element signature="e#16523#16646#1" />
+                <element signature="e#17458#17502#1" />
+                <element signature="e#16939#16973#0" />
+                <element signature="docComment;method#loopStatement#0;class#Analyser#0" />
+                <element signature="method#loopStatement#0;class#Analyser#0" />
+                <element signature="e#17196#17989#0" />
+                <element signature="e#17367#17496#1" />
+                <element signature="e#17587#17710#1" />
+                <element signature="e#17829#17952#1" />
+                <element signature="e#18018#18052#0" />
+                <element signature="docComment;method#jumpStatement#0;class#Analyser#0" />
+                <element signature="e#19174#19208#0" />
+                <element signature="docComment;method#scanStatement#0;class#Analyser#0" />
+                <element signature="method#scanStatement#0;class#Analyser#0" />
+                <element signature="e#19435#21984#0" />
+                <element signature="e#19598#19727#1" />
+                <element signature="e#19818#19941#1" />
+                <element signature="e#20030#20158#1" />
+                <element signature="e#20304#20427#1" />
+                <element signature="e#20515#20640#1" />
+                <element signature="e#20654#20665#0" />
+                <element signature="e#20743#21264#1" />
+                <element signature="e#20899#21250#1" />
+                <element signature="e#21343#21876#1" />
+                <element signature="e#21502#21862#1" />
+                <element signature="e#22013#22047#0" />
+                <element signature="docComment;method#printStatement#0;class#Analyser#0" />
+                <element signature="method#printStatement#0;class#Analyser#0" />
+                <element signature="e#22396#23832#0" />
+                <element signature="e#22540#22669#1" />
+                <element signature="e#22760#22883#1" />
+                <element signature="e#22919#22996#1" />
+                <element signature="e#23023#23273#1" />
+                <element signature="e#23116#23197#1" />
+                <element signature="e#23366#23489#1" />
+                <element signature="e#23577#23702#1" />
+                <element signature="e#23748#23821#1" />
+                <element signature="e#23861#23895#0" />
+                <element signature="docComment;method#assignmentStatement#0;class#Analyser#0" />
+                <element signature="method#assignmentStatement#0;class#Analyser#0" />
+                <element signature="e#24205#26783#0" />
+                <element signature="e#24416#24545#1" />
+                <element signature="e#24644#25074#1" />
+                <element signature="e#25155#25594#1" />
+                <element signature="e#25785#25885#1" />
+                <element signature="e#26020#26352#1" />
+                <element signature="e#26431#26772#1" />
+                <element signature="e#26812#26846#0" />
+                <element signature="docComment;method#functionCall#0;class#Analyser#0" />
+                <element signature="docComment;method#condition#0;class#Analyser#0" />
+                <element signature="method#condition#0;class#Analyser#0" />
+                <element signature="e#29254#31048#0" />
+                <element signature="e#29383#29539#1" />
+                <element signature="e#29465#29525#1" />
+                <element signature="e#29557#31038#1" />
+                <element signature="e#29771#31024#0" />
+                <element signature="e#29813#29975#1" />
+                <element signature="e#30021#30184#1" />
+                <element signature="e#30228#30390#1" />
+                <element signature="e#30439#30602#1" />
+                <element signature="e#30640#30802#1" />
+                <element signature="e#30843#31006#1" />
+                <element signature="e#31077#31111#0" />
+                <element signature="docComment;method#expression#0;class#Analyser#0" />
+                <element signature="method#expression#0;class#Analyser#0" />
+                <element signature="e#31572#32459#0" />
+                <element signature="e#31822#32449#1" />
+                <element signature="e#31984#32065#1" />
+                <element signature="e#32488#32522#0" />
+                <element signature="docComment;method#multiplicativeExpression#0;class#Analyser#0" />
+                <element signature="method#multiplicativeExpression#0;class#Analyser#0" />
+                <element signature="e#32882#33767#0" />
+                <element signature="e#33112#33756#1" />
+                <element signature="e#33287#33368#1" />
+                <element signature="e#33796#33830#0" />
+                <element signature="docComment;method#unaryExpression#0;class#Analyser#0" />
+                <element signature="method#unaryExpression#0;class#Analyser#0" />
+                <element signature="e#34283#38013#0" />
+                <element signature="e#34790#37915#0" />
+                <element signature="e#34827#35174#1" />
+                <element signature="e#34982#35129#1" />
+                <element signature="e#35208#37150#1" />
+                <element signature="e#35451#35557#1" />
+                <element signature="e#35716#36308#0" />
+                <element signature="e#35969#36226#1" />
+                <element signature="e#36386#36993#1" />
+                <element signature="e#36645#36908#1" />
+                <element signature="e#37190#37416#1" />
+                <element signature="e#37459#37685#1" />
+                <element signature="e#37723#37769#1" />
+                <element signature="e#37795#37901#1" />
+                <element signature="e#38042#38076#0" />
+                <element signature="docComment;method#isType#0;class#Analyser#0" />
+                <element signature="method#isType#0;class#Analyser#0" />
+                <element signature="docComment;method#isRelational#0;class#Analyser#0" />
+                <element signature="method#isRelational#0;class#Analyser#0" />
+                <element signature="docComment;method#intoVar#0;class#Analyser#0" />
+                <element signature="method#intoVar#0;class#Analyser#0" />
+                <element signature="e#39125#40780#0" />
+                <element signature="e#39167#40722#1" />
+                <element signature="e#39325#39412#1" />
+                <element signature="e#39516#40614#1" />
+                <element signature="e#39704#39843#1" />
+                <element signature="e#39849#40596#1" />
+                <element signature="e#40173#40371#1" />
+                <element signature="e#40377#40574#1" />
+                <element signature="e#40620#40708#1" />
+                <element signature="e#40809#40985#0" />
+                <element signature="docComment;method#intoFunc#0;class#Analyser#0" />
+                <element signature="method#intoFunc#0;class#Analyser#0" />
+                <element signature="e#41154#42535#0" />
+                <element signature="e#41196#42478#1" />
+                <element signature="e#41332#42354#1" />
+                <element signature="e#41520#41659#1" />
+                <element signature="e#41685#42336#1" />
+                <element signature="e#41889#42087#1" />
+                <element signature="e#42117#42314#1" />
+                <element signature="e#42376#42464#1" />
+                <element signature="e#42564#42740#0" />
+                <element signature="docComment;method#intoStatement#0;class#Analyser#0" />
+                <element signature="method#intoStatement#0;class#Analyser#0" />
+                <element signature="e#42921#43688#0" />
+                <element signature="e#42963#43630#1" />
+                <element signature="e#43717#43893#0" />
+                <element signature="docComment;method#intoExpression#0;class#Analyser#0" />
+                <element signature="method#intoExpression#0;class#Analyser#0" />
+                <element signature="e#44112#44927#0" />
+                <element signature="e#44154#44869#1" />
+                <element signature="e#44956#45132#0" />
+                <element signature="docComment;method#nextToken#0;class#Analyser#0" />
+                <element signature="method#nextToken#0;class#Analyser#0" />
+                <element signature="docComment;method#unreadToken#0;class#Analyser#0" />
+                <element signature="method#unreadToken#0;class#Analyser#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/error/ErrorCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/run/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/production/C0/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/production/C0/output.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/error/CompilationError.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/analyser/TokenTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>isDigit</find>
+      <find>isEOF</find>
+      <find>ErrNeedTypeSpecifier</find>
+      <find>nextToken</find>
+      <find>IDENTIFIER</find>
+      <find>peek</find>
+      <find>ok</find>
+      <find>switch</find>
+      <find>into</find>
+      <find>ErrInvalid</find>
+      <find>ErrInvalidInput</find>
+      <find>position</find>
+      <find>ipush</find>
+      <find>typeSpecifier</find>
+      <find>ErrNotDeclared</find>
+      <find>newFun</find>
+      <find>call</find>
+      <find>add</find>
+      <find>addIns</find>
+      <find>jumpSt</find>
+      <find>lastInstuctionIndex</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/error/ComplierError.java" />
+        <option value="$PROJECT_DIR$/src/tokenizer/DFAState.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/output.txt" />
+        <option value="$PROJECT_DIR$/src/tokenizer/Token.java" />
+        <option value="$PROJECT_DIR$/src/analyser/Constant.java" />
+        <option value="$PROJECT_DIR$/src/tokenizer/TokenType.java" />
+        <option value="$PROJECT_DIR$/src/analyser/Function.java" />
+        <option value="$PROJECT_DIR$/src/analyser/Assembly.java" />
+        <option value="$PROJECT_DIR$/src/tools/Pair.java" />
+        <option value="$PROJECT_DIR$/src/error/CompilationError.java" />
+        <option value="$PROJECT_DIR$/src/tokenizer/TKZDFAState.java" />
+        <option value="$PROJECT_DIR$/src/tokenizer/Tokenizer.java" />
+        <option value="$PROJECT_DIR$/src/analyser/Instruction.java" />
+        <option value="$PROJECT_DIR$/src/analyser/FunctionBody.java" />
+        <option value="$PROJECT_DIR$/src/analyser/TokenTable.java" />
+        <option value="$PROJECT_DIR$/src/error/ErrorCode.java" />
+        <option value="$PROJECT_DIR$/src/input.txt" />
+        <option value="$PROJECT_DIR$/src/analyser/Analyser.java" />
+        <option value="$PROJECT_DIR$/src/run/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="C0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C0" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C0" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C0" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="C0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C0" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="C0" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577296993138" />
+    <property name="last_opened_file_path" value="E:/study/大二下/OO/library" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="run" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="run.Main" />
+      <module name="C0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d012e2b-eae2-4d73-893e-d39432a4dd72" name="Default Changelist" comment="" />
+      <created>1575967992168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575967992168</updated>
+      <workItem from="1575967998523" duration="17000" />
+      <workItem from="1576051725080" duration="1010000" />
+      <workItem from="1576154885379" duration="162000" />
+      <workItem from="1576306137036" duration="4686000" />
+      <workItem from="1576405536942" duration="8140000" />
+      <workItem from="1576484207513" duration="1806000" />
+      <workItem from="1576596273483" duration="6238000" />
+      <workItem from="1576685227967" duration="1004000" />
+      <workItem from="1576743149596" duration="7800000" />
+      <workItem from="1576829432535" duration="8681000" />
+      <workItem from="1576924989002" duration="10049000" />
+      <workItem from="1576986489676" duration="2804000" />
+      <workItem from="1576994644278" duration="15498000" />
+      <workItem from="1577032779709" duration="7283000" />
+      <workItem from="1577074227835" duration="3068000" />
+      <workItem from="1577111212895" duration="8780000" />
+      <workItem from="1577167747313" duration="20035000" />
+      <workItem from="1577269475923" duration="989000" />
+      <workItem from="1577271777339" duration="10418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118468000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13873994" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32956153" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Module Dependencies" order="9" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13538875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32956153" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Module Dependencies" order="9" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="431" column="13" selection-start-line="431" selection-start-column="13" selection-end-line="431" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试集/input0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="1" lean-forward="true" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试集/input3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" lean-forward="true" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试集/input2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试集/input4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="1" lean-forward="true" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试集/input5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试集/input6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试集/input7.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/analyser/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tools/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tokenizer/TokenType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tokenizer/Tokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6707">
+          <caret line="359" column="85" selection-start-line="359" selection-start-column="85" selection-end-line="359" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#15699#15700#0" expanded="true" />
+            <element signature="e#15798#15799#0" expanded="true" />
+            <element signature="e#15896#15897#0" expanded="true" />
+            <element signature="e#15941#15942#0" expanded="true" />
+            <element signature="e#16031#16032#0" expanded="true" />
+            <element signature="e#16106#16107#0" expanded="true" />
+            <element signature="e#17740#17741#0" expanded="true" />
+            <element signature="e#17771#17772#0" expanded="true" />
+            <element signature="e#18634#18635#0" expanded="true" />
+            <element signature="e#18693#18694#0" expanded="true" />
+            <element signature="e#18748#18749#0" expanded="true" />
+            <element signature="e#18788#18789#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tokenizer/TKZDFAState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/analyser/Instruction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/analyser/Assembly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/analyser/FunctionBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/analyser/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tokenizer/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1528#1529#0" expanded="true" />
+            <element signature="e#1555#1556#0" expanded="true" />
+            <element signature="e#1587#1588#0" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+            <element signature="e#1647#1648#0" expanded="true" />
+            <element signature="e#1678#1679#0" expanded="true" />
+            <element signature="e#1716#1717#0" expanded="true" />
+            <element signature="e#1750#1751#0" expanded="true" />
+            <element signature="e#1801#1802#0" expanded="true" />
+            <element signature="e#1832#1833#0" expanded="true" />
+            <element signature="e#1881#1882#0" expanded="true" />
+            <element signature="e#1910#1911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/analyser/TokenTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/C0/out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/C0/out.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/C0/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/error/CompilationError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/error/ErrorCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/C0/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/run/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/analyser/Analyser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+          <folding>
+            <element signature="e#1132#1225#1" />
+            <element signature="docComment;method#program#0;class#Analyser#0" />
+            <element signature="method#program#0;class#Analyser#0" />
+            <element signature="e#1576#2061#0" />
+            <element signature="e#1681#1764#1" />
+            <element signature="e#1868#1950#1" />
+            <element signature="e#2090#2124#0" />
+            <element signature="docComment;method#variableDeclaration#0;class#Analyser#0" />
+            <element signature="method#variableDeclaration#0;class#Analyser#0" />
+            <element signature="e#2664#3924#0" />
+            <element signature="e#2816#2892#1" />
+            <element signature="e#3369#3647#1" />
+            <element signature="e#3461#3530#1" />
+            <element signature="e#3552#3633#1" />
+            <element signature="e#3787#3913#1" />
+            <element signature="e#3952#3986#0" />
+            <element signature="docComment;method#initDeclarator#0;class#Analyser#0" />
+            <element signature="method#initDeclarator#0;class#Analyser#0" />
+            <element signature="e#4282#5732#0" />
+            <element signature="e#4432#4560#1" />
+            <element signature="e#4604#4738#1" />
+            <element signature="e#4904#5305#1" />
+            <element signature="e#4995#5138#1" />
+            <element signature="e#5183#5290#1" />
+            <element signature="e#5343#5721#1" />
+            <element signature="e#5433#5540#1" />
+            <element signature="e#5586#5707#1" />
+            <element signature="e#5761#5795#0" />
+            <element signature="docComment;method#typeSpecifier#0;class#Analyser#0" />
+            <element signature="method#typeSpecifier#0;class#Analyser#0" />
+            <element signature="e#6049#6326#0" />
+            <element signature="e#6113#6167#1" />
+            <element signature="e#6185#6316#1" />
+            <element signature="e#6355#6389#0" />
+            <element signature="docComment;method#functionDefinition#0;class#Analyser#0" />
+            <element signature="e#7031#7159#1" />
+            <element signature="e#7452#7592#1" />
+            <element signature="e#7995#8094#1" />
+            <element signature="e#8286#8426#1" />
+            <element signature="e#8654#8688#0" />
+            <element signature="docComment;method#parameterClauseList#0;class#Analyser#0" />
+            <element signature="method#parameterClauseList#0;class#Analyser#0" />
+            <element signature="e#8929#9304#0" />
+            <element signature="e#8993#9293#1" />
+            <element signature="e#9085#9176#1" />
+            <element signature="e#9198#9279#1" />
+            <element signature="e#9333#9367#0" />
+            <element signature="docComment;method#parameterDeclaration#0;class#Analyser#0" />
+            <element signature="method#parameterDeclaration#0;class#Analyser#0" />
+            <element signature="e#9616#10728#0" />
+            <element signature="e#9769#9845#1" />
+            <element signature="e#10273#10401#1" />
+            <element signature="e#10445#10579#1" />
+            <element signature="e#10757#10791#0" />
+            <element signature="docComment;method#compoundStatement#0;class#Analyser#0" />
+            <element signature="e#11198#11337#1" />
+            <element signature="e#11442#11496#1" />
+            <element signature="e#11730#11869#1" />
+            <element signature="docComment;method#statementSeq#0;class#Analyser#0" />
+            <element signature="method#statementSeq#0;class#Analyser#0" />
+            <element signature="e#12118#12210#0" />
+            <element signature="e#12156#12200#1" />
+            <element signature="e#12239#12273#0" />
+            <element signature="docComment;method#statement#0;class#Analyser#0" />
+            <element signature="method#statement#0;class#Analyser#0" />
+            <element signature="e#12815#15579#0" />
+            <element signature="e#12885#15569#0" />
+            <element signature="e#12920#13253#1" />
+            <element signature="e#13063#13208#1" />
+            <element signature="e#13279#13402#1" />
+            <element signature="e#13431#13549#1" />
+            <element signature="e#13579#13697#1" />
+            <element signature="e#13726#13845#1" />
+            <element signature="e#13873#13991#1" />
+            <element signature="e#14025#15476#1" />
+            <element signature="e#14136#14675#1" />
+            <element signature="e#14461#14622#1" />
+            <element signature="e#14747#15279#1" />
+            <element signature="e#15065#15226#1" />
+            <element signature="e#15305#15458#1" />
+            <element signature="e#15509#15555#1" />
+            <element signature="e#15608#15642#0" />
+            <element signature="docComment;method#conditionStatement#0;class#Analyser#0" />
+            <element signature="method#conditionStatement#0;class#Analyser#0" />
+            <element signature="e#15873#16910#0" />
+            <element signature="e#16063#16192#1" />
+            <element signature="e#16283#16406#1" />
+            <element signature="e#16523#16646#1" />
+            <element signature="e#17458#17502#1" />
+            <element signature="e#16939#16973#0" />
+            <element signature="docComment;method#loopStatement#0;class#Analyser#0" />
+            <element signature="method#loopStatement#0;class#Analyser#0" />
+            <element signature="e#17196#17989#0" />
+            <element signature="e#17367#17496#1" />
+            <element signature="e#17587#17710#1" />
+            <element signature="e#17829#17952#1" />
+            <element signature="e#18018#18052#0" />
+            <element signature="docComment;method#jumpStatement#0;class#Analyser#0" />
+            <element signature="e#19174#19208#0" />
+            <element signature="docComment;method#scanStatement#0;class#Analyser#0" />
+            <element signature="method#scanStatement#0;class#Analyser#0" />
+            <element signature="e#19435#21984#0" />
+            <element signature="e#19598#19727#1" />
+            <element signature="e#19818#19941#1" />
+            <element signature="e#20030#20158#1" />
+            <element signature="e#20304#20427#1" />
+            <element signature="e#20515#20640#1" />
+            <element signature="e#20654#20665#0" />
+            <element signature="e#20743#21264#1" />
+            <element signature="e#20899#21250#1" />
+            <element signature="e#21343#21876#1" />
+            <element signature="e#21502#21862#1" />
+            <element signature="e#22013#22047#0" />
+            <element signature="docComment;method#printStatement#0;class#Analyser#0" />
+            <element signature="method#printStatement#0;class#Analyser#0" />
+            <element signature="e#22396#23832#0" />
+            <element signature="e#22540#22669#1" />
+            <element signature="e#22760#22883#1" />
+            <element signature="e#22919#22996#1" />
+            <element signature="e#23023#23273#1" />
+            <element signature="e#23116#23197#1" />
+            <element signature="e#23366#23489#1" />
+            <element signature="e#23577#23702#1" />
+            <element signature="e#23748#23821#1" />
+            <element signature="e#23861#23895#0" />
+            <element signature="docComment;method#assignmentStatement#0;class#Analyser#0" />
+            <element signature="method#assignmentStatement#0;class#Analyser#0" />
+            <element signature="e#24205#26783#0" />
+            <element signature="e#24416#24545#1" />
+            <element signature="e#24644#25074#1" />
+            <element signature="e#25155#25594#1" />
+            <element signature="e#25785#25885#1" />
+            <element signature="e#26020#26352#1" />
+            <element signature="e#26431#26772#1" />
+            <element signature="e#26812#26846#0" />
+            <element signature="docComment;method#functionCall#0;class#Analyser#0" />
+            <element signature="docComment;method#condition#0;class#Analyser#0" />
+            <element signature="method#condition#0;class#Analyser#0" />
+            <element signature="e#29254#31048#0" />
+            <element signature="e#29383#29539#1" />
+            <element signature="e#29465#29525#1" />
+            <element signature="e#29557#31038#1" />
+            <element signature="e#29771#31024#0" />
+            <element signature="e#29813#29975#1" />
+            <element signature="e#30021#30184#1" />
+            <element signature="e#30228#30390#1" />
+            <element signature="e#30439#30602#1" />
+            <element signature="e#30640#30802#1" />
+            <element signature="e#30843#31006#1" />
+            <element signature="e#31077#31111#0" />
+            <element signature="docComment;method#expression#0;class#Analyser#0" />
+            <element signature="method#expression#0;class#Analyser#0" />
+            <element signature="e#31572#32459#0" />
+            <element signature="e#31822#32449#1" />
+            <element signature="e#31984#32065#1" />
+            <element signature="e#32488#32522#0" />
+            <element signature="docComment;method#multiplicativeExpression#0;class#Analyser#0" />
+            <element signature="method#multiplicativeExpression#0;class#Analyser#0" />
+            <element signature="e#32882#33767#0" />
+            <element signature="e#33112#33756#1" />
+            <element signature="e#33287#33368#1" />
+            <element signature="e#33796#33830#0" />
+            <element signature="docComment;method#unaryExpression#0;class#Analyser#0" />
+            <element signature="method#unaryExpression#0;class#Analyser#0" />
+            <element signature="e#34283#38013#0" />
+            <element signature="e#34790#37915#0" />
+            <element signature="e#34827#35174#1" />
+            <element signature="e#34982#35129#1" />
+            <element signature="e#35208#37150#1" />
+            <element signature="e#35451#35557#1" />
+            <element signature="e#35716#36308#0" />
+            <element signature="e#35969#36226#1" />
+            <element signature="e#36386#36993#1" />
+            <element signature="e#36645#36908#1" />
+            <element signature="e#37190#37416#1" />
+            <element signature="e#37459#37685#1" />
+            <element signature="e#37723#37769#1" />
+            <element signature="e#37795#37901#1" />
+            <element signature="e#38042#38076#0" />
+            <element signature="docComment;method#isType#0;class#Analyser#0" />
+            <element signature="method#isType#0;class#Analyser#0" />
+            <element signature="docComment;method#isRelational#0;class#Analyser#0" />
+            <element signature="method#isRelational#0;class#Analyser#0" />
+            <element signature="docComment;method#intoVar#0;class#Analyser#0" />
+            <element signature="method#intoVar#0;class#Analyser#0" />
+            <element signature="e#39125#40780#0" />
+            <element signature="e#39167#40722#1" />
+            <element signature="e#39325#39412#1" />
+            <element signature="e#39516#40614#1" />
+            <element signature="e#39704#39843#1" />
+            <element signature="e#39849#40596#1" />
+            <element signature="e#40173#40371#1" />
+            <element signature="e#40377#40574#1" />
+            <element signature="e#40620#40708#1" />
+            <element signature="e#40809#40985#0" />
+            <element signature="docComment;method#intoFunc#0;class#Analyser#0" />
+            <element signature="method#intoFunc#0;class#Analyser#0" />
+            <element signature="e#41154#42535#0" />
+            <element signature="e#41196#42478#1" />
+            <element signature="e#41332#42354#1" />
+            <element signature="e#41520#41659#1" />
+            <element signature="e#41685#42336#1" />
+            <element signature="e#41889#42087#1" />
+            <element signature="e#42117#42314#1" />
+            <element signature="e#42376#42464#1" />
+            <element signature="e#42564#42740#0" />
+            <element signature="docComment;method#intoStatement#0;class#Analyser#0" />
+            <element signature="method#intoStatement#0;class#Analyser#0" />
+            <element signature="e#42921#43688#0" />
+            <element signature="e#42963#43630#1" />
+            <element signature="e#43717#43893#0" />
+            <element signature="docComment;method#intoExpression#0;class#Analyser#0" />
+            <element signature="method#intoExpression#0;class#Analyser#0" />
+            <element signature="e#44112#44927#0" />
+            <element signature="e#44154#44869#1" />
+            <element signature="e#44956#45132#0" />
+            <element signature="docComment;method#nextToken#0;class#Analyser#0" />
+            <element signature="method#nextToken#0;class#Analyser#0" />
+            <element signature="docComment;method#unreadToken#0;class#Analyser#0" />
+            <element signature="method#unreadToken#0;class#Analyser#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>C0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

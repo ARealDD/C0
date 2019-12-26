@@ -1,0 +1,28 @@
+const double cc=1.2;
+double b=1+2+3*4.2*1+5-47+(-2)+(double)-2+'A';
+int i=15;
+int t(){
+while (0.1){;}
+
+}
+int f(const int k,int kk){
+kk=1;
+}
+void vf(int a){
+a=a+1;
+return;
+}
+int main(){
+int i=0;
+print(b);
+while (0.1){print(i);i=i+1;if (i>5) break;}
+if(i>0) // if1
+	if (i>20) // if2
+	    i = i+1;
+	else // match if2
+	    i = 1;
+print(i);
+vf(2);
+if (0.001) print("haha");
+if (0.00) print("jjj");
+}

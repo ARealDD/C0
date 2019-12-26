@@ -1,0 +1,5 @@
+int a=1;
+void m(){}
+int main(){
+a=(void)1;
+}

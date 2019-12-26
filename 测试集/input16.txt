@@ -1,0 +1,33 @@
+const double pi=3.14,pi2=3.14,pi3=3.14;
+double p1=1,p2=p1,p3=p2;
+double max(double a,double b){
+	if (a>b)
+		return a;
+	else
+		return b;
+}
+double max3(double a,double b,double c){
+	return max(max(a,b),c);
+}
+double calArea2(double a,double b,double c){
+int m=(a+b+c)/2;
+return m*(m-a)*(m-b)*(m-c);
+}
+
+int main(){
+double m=1.0,sum=2.0,area=3.0;
+print(p1,p2,p3);
+//pi3=4;
+while (1){
+double m=0,sum=0,area=0;
+double a;
+print('A');
+
+scan(a);
+print('A');
+print(a);
+print('A');
+if (a==1) break;
+}
+print(m,sum,area);
+}

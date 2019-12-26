@@ -1,0 +1,20 @@
+double main(){
+print('\n');
+print('\r');
+print('\t');
+print('\'');
+print('\"');
+print('\\');
+print('\x45');
+print('\x89');
+print("HelloWorld");
+print("HelloWorld\\\\");
+print("Hello\nW\ro\trld!");
+print("Hello\x20world!");
+print("\x89\x90\x91\x92");
+print(0x10+5e1*0x1);
+print('a','b');
+print('a',"->",'b');
+print("a -> b");
+return 'w';
+}

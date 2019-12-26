@@ -1,0 +1,14 @@
+int g0 = 42;
+double g1 = 1.0;
+
+int fun(int num) {
+    return -num;
+}
+
+int main() {
+	print(g0);
+	print(0.1+0.01+1e5);
+	print(g1);
+	
+    return fun(-123456);
+}
