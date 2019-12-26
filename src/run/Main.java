@@ -33,10 +33,10 @@ public class Main {
                     "  -c        将输入的 c0 源代码翻译为二进制目标文件\n" +
                     "  -h        显示关于编译器使用的帮助\n" +
                     "  -o file   输出到指定的文件 file");
-        else if (args[0] == "-s" || args[0] == "-c") {
+        else if (args[0].equals("-s")  || args[0] .equals("-c")) {
             fin = new File(args[1]);
             if (argv > 2) {
-                if (args[2] == "-o")
+                if (args[2].equals("-o"))
                     fout = new File(args[3]);
             }
             ArrayList tokens;
