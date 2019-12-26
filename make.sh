@@ -9,4 +9,4 @@ find $SRC_PATH -name *.java > $SRC_PATH/sources.list
 rm -rf $BIN_PATH
 mkdir $BIN_PATH
 
-javac -d $BIN_PATH  @$SRC_PATH/sources.list
+javac -d $BIN_PATH  @$SRC_PATH/sources.list -Xlint
