@@ -5,8 +5,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import com.sun.org.apache.regexp.internal.RE;
-import org.omg.CORBA.COMM_FAILURE;
 import run.Main;
 import error.CompilationError;
 import error.ErrorCode;
