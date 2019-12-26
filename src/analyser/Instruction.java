@@ -31,9 +31,9 @@ public class Instruction {
         sb.append(' ');
         if (operand1 != null) {
             sb.append(operand1);
-            sb.append(' ');
         }
         if (operand2 != null) {
+            sb.append(',');
             sb.append(operand2);
             sb.append(' ');
         }

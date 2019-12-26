@@ -16,5 +16,6 @@ void main() {
         a = a + 1;
         c = a + b;
     }
+    print(fun(c));
     return;
 }
